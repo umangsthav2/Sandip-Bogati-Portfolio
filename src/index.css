@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import "./variables.css";
+
+html
+    {
+        scroll-behavior: smooth;
+    }
+
+
+
+body {
+    background-color: var(--custom-bg);
+}
