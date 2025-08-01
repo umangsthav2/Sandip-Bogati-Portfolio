@@ -9,19 +9,19 @@ import ConnectMe from '../Sections/ConnectMe';
 import ThankingSection from '../Sections/ThankingSection';
 
 const MainPage = () => {
-    
-    
-    
+
+
+
     return (
         <>
             <Navbar />
-            <HomeSection/>
-            <AboutSection/>
-            <SkillSection/>
-            <ProjectSection/>
-            <QualificationSection/>
-            <ConnectMe/>
-            <ThankingSection/>
+            <HomeSection />
+            <AboutSection />
+            <SkillSection />
+            <ProjectSection />
+            <QualificationSection />
+            <ConnectMe />
+            <ThankingSection />
         </>
 
 
